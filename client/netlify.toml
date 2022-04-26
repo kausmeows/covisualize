@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://z69qtgfen5.execute-api.us-east-1.amazonaws.com/:splat"
+  status = 200
+  force = true
