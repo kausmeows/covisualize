@@ -49,5 +49,13 @@ The `SARIMAX` time-series model is used for predicting the cases and deaths for 
 ## Deployment
 The whole application was packaged and deployed to the web using `Amazon S3`
 
+## Run frontend locally
+To see the UI and landing page locally, run the following commands one by one
+```bash
+cd client
+yarn
+yarn start
+```
+
 
 
